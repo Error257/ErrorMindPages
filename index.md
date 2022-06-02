@@ -1,3 +1,3 @@
-[Posts](2022-06-01-a-good-privacy-list.md)
+[Posts](posts.md)
 
 [About me](about.md)
