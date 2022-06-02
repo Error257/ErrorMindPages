@@ -1,6 +1,9 @@
 ```term
-Well. Finally I decide to build this blog for all the nerds, hackers, security researchers, privacy freaks, and all the people that want to get information about Computer world. In these days, like many people around the world, I’m on quarantine, I hope that you are fine while reading this.
+Well. Finally I decide to build this blog for all the nerds, hackers, security researchers, privacy freaks, 
+and all the people that want to get information about Computer world. I hope that you are fine while reading this.  
 ```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&color=F7105F&multiline=true&lines=Hopefulness+i+will+leave+this+account+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
 
 [Posts](posts.md)
 
