@@ -1,4 +1,5 @@
-
+---
+YAML front matter
 ---
 
 ```term
