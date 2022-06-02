@@ -14,6 +14,7 @@ or a framework in common, and unravel its security issues. I utilize nearly sole
 Manjaro Linux has driven me to know the KISS rule, which I attempt to apply in programming and in issue fathoming, basic concept but exceptionally complex to ace.
 
 
+<img align="right" src="https://i.imgur.com/wOZ2QHs.gif" alt="Programmation" width="200" />
 
 
 [Back To the home Page](index.md)
