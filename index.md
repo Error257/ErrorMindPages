@@ -10,7 +10,7 @@ Me Everyday 😂    <img align="right" src="https://i.giphy.com/media/LmNwrBhejk
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&color=F7105F&multiline=true&lines=Hopefulness+i+will+leave+this+page+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=10000&color=15690DFF&multiline=true&lines=Hopefulness+i+will+leave+this+page+;With+Speacil+Expectations;Beyond+The+Horizon+With+a+Full+Measearus+)](https://git.io/typing-svg)
 
 
 [Posts](posts.md)
