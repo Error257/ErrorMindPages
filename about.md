@@ -1,9 +1,11 @@
 ---
+layout: page
+title: About Me | Error257
+---
 
 ```term
-About Me | Error257
+About Me
 ```
----
 
 Hi, I am `Error257` and I am a Programmer, not for aptitudes, I certainly have a long way to go, but I am a Programmer since I attempt to get it how 
 things work, and I attempt to progress them, whether it is an working framework, a program or an protest that I utilize everyday. 
