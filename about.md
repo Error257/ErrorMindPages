@@ -1,10 +1,8 @@
 
 ---
-About Me | Error257
----
 
 ```term
-About Me
+About Me | Error257
 ```
 
 Hi, I am `Error257` and I am a Programmer, not for aptitudes, I certainly have a long way to go, but I am a Programmer since I attempt to get it how 
@@ -17,3 +15,6 @@ Manjaro Linux has driven me to know the KISS rule, which I attempt to apply in p
 
 
 [Back To the home Page](index.md)
+
+
+---
