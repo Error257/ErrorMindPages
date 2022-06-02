@@ -7,6 +7,7 @@ title: contacts | Error257
 contact me
 ```
 
-Email:  `abusini404@hotmail.com`
+Email:  404@errormind404.me
+
 
 Also you can find me on GitHub: [Error257](https://github.com/Error257)
