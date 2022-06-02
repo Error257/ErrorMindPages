@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: About Me | Error257
+About Me | Error257
 ---
 
 ```term
