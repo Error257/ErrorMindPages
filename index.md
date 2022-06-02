@@ -17,4 +17,4 @@ and all the people that want to get information about Computer world. I hope tha
 
 ''Most deadly errors arise from obsolete assumptions''   
 
-https://i.imgur.com/wOZ2QHs.gif
+<img align="right" src="https://i.imgur.com/wOZ2QHs.gif" alt="Programmation" width="200" />
