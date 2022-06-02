@@ -16,4 +16,4 @@ and all the people that want to get information about Computer world. I hope tha
 
 
 ''Most deadly errors arise from obsolete assumptions''   
-<iframe src="https://giphy.com/embed/YyKPbc5OOTSQE" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gustavo-art-kidmograph-gustavo-YyKPbc5OOTSQE">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YyKPbc5OOTSQE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gustavo-art-kidmograph-gustavo-YyKPbc5OOTSQE">via GIPHY</a></p>
