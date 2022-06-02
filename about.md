@@ -20,4 +20,4 @@ Manjaro Linux has driven me to know the KISS rule, which I attempt to apply in p
 [Back To the home Page](index.md)
 
 
----
+
