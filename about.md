@@ -1,6 +1,4 @@
 ---
-YAML front matter
----
 
 ```term
 About Me | Error257
