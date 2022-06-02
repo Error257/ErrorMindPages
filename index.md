@@ -1,3 +1,4 @@
 Welcome index.md!
-[Posts].()
+[Posts].(_posts)
+
 [About me](about.md)
