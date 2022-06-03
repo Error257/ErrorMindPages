@@ -25,6 +25,6 @@ Me Everyday 😂    <img align="right" src="https://i.giphy.com/media/LmNwrBhejk
 [Contact Me](contacts.md)
 
 
-''Most deadly errors arise from obsolete assumptions''  
+>Most deadly errors arise from obsolete assumptions
 
 
