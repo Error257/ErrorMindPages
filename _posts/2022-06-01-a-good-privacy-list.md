@@ -359,23 +359,6 @@ However, I generally tend to prefer services that have jurisdiction in countries
 **ProtonMail case:** Recently it has jumped to the headlines the case in which the service ProtonMail has provided (and previously logged) the IP address of an activist, see: [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/).  Regarding this, I have made my own opinion, which is the same as it was when I first became interested in these topics years ago after [Lavabit case](https://en.wikipedia.org/wiki/Lavabit#Suspension_and_gag_order): No existing service in the world can "cover the ass" of someone who commits an action "judged to be criminal" or criminal, in the case of Proton, probably this person could not have been traced if he had used a VPN or if he had connected by Tor network, also the Proton team recommends [using Tor when using their email service](https://old.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/hbqha63/) if you need to protect your IP address. Anyway, this is a very complex speech that can't be covered here, my advice is to use at least one VPN, and if you use the ProtonMail service you can use it with another VPN service like Mullvad for example.  This way you don't relegate security to a single service, the disadvantage is that you have to trust one more service (the Hamletian doubts of Internet Privacy).
 
 
-### Donations
-
-If you liked my work, you can support me with a small donation:
-
-**Bitcoin**
-```
-19vqscjZcpa22qScPoQEuHJyyiyKokZ6C3
-```
-
-**Monero**
-```
-42HrxGUKPzNNJKFguPfFhXQajwNDnhLbogy6EWexWw9Sh5pTumVk7dkcD2PB4MuFgD1m8rnaR3pr1g852BWUTpXaTo9rQyr
-```
-
-<br>
-
-**Special thanks to the users of the /r/DeGoogle subreddit for advices and corrections.**
 
 ---
 
