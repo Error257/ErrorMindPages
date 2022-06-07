@@ -291,5 +291,3 @@ Of course, [this is not the only method of generating strong passwords](https://
 
 I hope this guide has cleared up your doubts regarding password security, stay safe!
 
-
-brainf+ck
