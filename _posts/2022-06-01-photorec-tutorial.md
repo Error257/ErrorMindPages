@@ -130,6 +130,5 @@ A more advanced script is available that gives you more options on file sorting:
 
 ---
 
-by Brainfuck
 
 Credits: [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
