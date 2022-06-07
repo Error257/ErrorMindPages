@@ -318,19 +318,4 @@ Also not included are apps that have not been updated for a long time (about 1 y
 **Special thanks to all the people who show me the applications to be included and who help me to improve the list!**
 
 <br>
-
-### Donations
-
-Please donate a litte to support my projects:
-
-**Bitcoin**
-
-```
-19vqscjZcpa22qScPoQEuHJyyiyKokZ6C3
-```
-
-**Monero**
-
-```
-42HrxGUKPzNNJKFguPfFhXQajwNDnhLbogy6EWexWw9Sh5pTumVk7dkcD2PB4MuFgD1m8rnaR3pr1g852BWUTpXaTo9rQyr
 ```
